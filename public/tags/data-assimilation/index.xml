@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Assimilation | Pengpeng Xiao</title>
-    <link>http://localhost:1313/tags/data-assimilation/</link>
-      <atom:link href="http://localhost:1313/tags/data-assimilation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pengpeng-xiao.github.io/tags/data-assimilation/</link>
+      <atom:link href="https://pengpeng-xiao.github.io/tags/data-assimilation/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Assimilation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://pengpeng-xiao.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Data Assimilation</title>
-      <link>http://localhost:1313/tags/data-assimilation/</link>
+      <link>https://pengpeng-xiao.github.io/tags/data-assimilation/</link>
     </image>
     
     <item>
       <title>LD-EnSF: Synergizing Latent Dynamics with Ensemble Score Filters for Fast Data Assimilation with Sparse Observations</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
+      <link>https://pengpeng-xiao.github.io/publication/conference-paper/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <guid>https://pengpeng-xiao.github.io/publication/conference-paper/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 

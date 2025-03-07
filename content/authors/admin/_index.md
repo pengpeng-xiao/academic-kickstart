@@ -82,7 +82,7 @@ education:
       - Quantum Field Theory, Particle Physics
       - Classical Mechanics, Quantum Mechanics, Electrodynamics, Thermodynamics
 work:
-  - position: Visiting Student
+  - position: Research Intern
     company_name: Georgia Institute of Technology 
     company_url: ''
     company_logo: ''
@@ -90,7 +90,7 @@ work:
     date_end: 2024-10-01
     summary: |
       - Working with Prof. Peng Chen on Latent Dynamics Ensemble Score Filter
-  - position: Visiting Student
+  - position: Research Intern
     company_name: Yale University 
     company_url: ''
     company_logo: ''
@@ -98,7 +98,7 @@ work:
     date_end: 2023-02-01
     summary: |
       - Working with Prof. Lu Lu on Quantum DeepONet
-  - position: Visiting Student
+  - position: Research Intern
     company_name: University of Utah
     company_url: ''
     company_logo: ''
