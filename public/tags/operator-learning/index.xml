@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Operator Learning | Hugo Academic CV Theme</title>
-    <link>https://pengpeng-xiao.github.io/tags/operator-learning/</link>
-      <atom:link href="https://pengpeng-xiao.github.io/tags/operator-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Operator Learning | Pengpeng Xiao</title>
+    <link>http://localhost:1313/tags/operator-learning/</link>
+      <atom:link href="http://localhost:1313/tags/operator-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Operator Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pengpeng-xiao.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Operator Learning</title>
-      <link>https://pengpeng-xiao.github.io/tags/operator-learning/</link>
+      <link>http://localhost:1313/tags/operator-learning/</link>
     </image>
     
     <item>
       <title>Quantum DeepONet: Neural operators accelerated by quantum computing</title>
-      <link>https://pengpeng-xiao.github.io/publication/quantum_deeponet/</link>
+      <link>http://localhost:1313/publication/quantum_deeponet/</link>
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pengpeng-xiao.github.io/publication/quantum_deeponet/</guid>
+      <guid>http://localhost:1313/publication/quantum_deeponet/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 

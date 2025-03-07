@@ -17,7 +17,7 @@ main:
     url: /#talks
     weight: 16
   - name: Experience
-    url: experience/
+    url: /#experience #experience/
     weight: 24
   # - name: Projects
   #   url: projects/

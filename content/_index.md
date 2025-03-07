@@ -64,87 +64,6 @@ sections:
         **[Sep 24, 2024]** 📄 My first paper [Quantum DeepONet](https://arxiv.org/abs/2409.15683) is now on arXiv!  
 
         </div>
-    design:
-      columns: '2'
-      view: compact
-
-    #   # Page type to display. E.g. post, talk, publication...
-    #   page_type: post
-    #   # Choose how many pages you would like to display (0 = all pages)
-    #   count: 0
-    #   # Filter on criteria
-    #   filters:
-    #     author: ""
-    #     category: ""
-    #     tag: ""
-    #     exclude_featured: false
-    #     exclude_future: false
-    #     exclude_past: false
-    #     publication_type: ""
-    #   # Choose how many pages you would like to offset by
-    #   offset: 0
-    #   # Page order: descending (desc) or ascending (asc) date.
-    #   order: desc
-    # design:
-    #   container_width: "1000px"
-    
-  # - block: collection
-  #   id: news
-  #   content:
-  #     title: "What's New?" 
-  #     subtitle: ''
-  #     text: ''
-  #     count: 0  # ✅ 设置 count 为 0，避免 Hugo 试图填充动态内容
-  #   items:  # ✅ 确保 items 被识别
-  #     - date: "2024-09-20"
-  #       icon: "🎉"
-  #       text: "2 papers (AgentReview and CPPLM) accepted to EMNLP'24 main track."
-  #     - date: "2024-07-15"
-  #       icon: "🎉"
-  #       text: "1 paper FairGAD accepted at CIKM'24."
-  #     - date: "2024-05-15"
-  #       icon: "🎉"
-  #       text: "2 papers MM-Soc and Proto-RM accepted at ACL'24."
-  #     - date: "2024-05-06"
-  #       icon: "💻"
-  #       text: "Joined Adobe as a Research Intern in San Jose, CA."
-  #     - date: "2024-05-01"
-  #       icon: "🎉"
-  #       text: "1 paper CompeteAI accepted at ICML'24 Oral."
-  #     - date: "2024-04-01"
-  #       icon: "📢"
-  #       text: "Our WebConf2024 Project on Cross-Lingual Evaluation of LLMs is featured at Scientific American and The World."
-  #     - date: "2024-01-23"
-  #       icon: "🎉"
-  #       text: "1 paper XLingEval accepted at The Web Conference 2024."
-  #   design:
-  #     view: compact  # ✅ 选择一个适合 `items` 的布局，比如 `compact`
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-
-      # # Page type to display. E.g. post, talk, publication...
-      # page_type: post
-      # # Choose how many pages you would like to display (0 = all pages)
-      # count: 5
-      # # Filter on criteria
-      # filters:
-      #   author: ""
-      #   category: ""
-      #   tag: ""
-      #   exclude_featured: false
-      #   exclude_future: false
-      #   exclude_past: false
-      #   publication_type: ""
-      # # Choose how many pages you would like to offset by
-      # offset: 0
-      # # Page order: descending (desc) or ascending (asc) date.
-      # order: desc
-    # design:
-    #   # Choose a layout view
-    #   view: date-title-summary
-    #   # Reduce spacing
-    #   spacing:
-    #     padding: [0, 0, 0, 0]
 
   - block: collection
     id: papers
@@ -177,6 +96,22 @@ sections:
     design:
       view: article-grid
       columns: 1
+
+  - block: resume-experience
+    id: experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
  
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
