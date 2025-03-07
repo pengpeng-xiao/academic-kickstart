@@ -1,10 +1,6 @@
 ---
 # Display name
-<<<<<<< HEAD
 title: Pengpeng Xiao
-=======
-title: Pengpeng Xiao (肖芃芃）
->>>>>>> fe260f214a12b3dc0362ba524d31d054c99d574d
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -46,13 +42,8 @@ profiles:
     url: https://www.linkedin.com/in/pengpeng-xiao-7b151a2b5
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=EkOoBwMAAAAJ
-<<<<<<< HEAD
   # - icon: academicons/orcid
   #   url: https://orcid.org/ 
-=======
-  - icon: academicons/orcid
-    url: https://orcid.org/ 
->>>>>>> fe260f214a12b3dc0362ba524d31d054c99d574d
 
 interests:
   - Scientific Machine Learning
